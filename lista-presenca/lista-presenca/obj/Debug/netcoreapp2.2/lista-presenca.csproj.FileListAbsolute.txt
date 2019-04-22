@@ -1,0 +1,28 @@
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.deps.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.runtimeconfig.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.runtimeconfig.dev.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.dll
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.pdb
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.csprojAssemblyReference.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorAssemblyInfo.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorAssemblyInfo.cs
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.AssemblyInfoInputs.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.AssemblyInfo.cs
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.dll
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.pdb
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.deps.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.runtimeconfig.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.runtimeconfig.dev.json
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.dll
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\bin\Debug\netcoreapp2.2\lista-presenca.pdb
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.csprojAssemblyReference.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorAssemblyInfo.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorAssemblyInfo.cs
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.AssemblyInfoInputs.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.AssemblyInfo.cs
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.dll
+C:\Users\Gabriel Brunichaki\Desktop\GitHub\Lista Presença\lista-presenca\lista-presenca\obj\Debug\netcoreapp2.2\lista-presenca.pdb
